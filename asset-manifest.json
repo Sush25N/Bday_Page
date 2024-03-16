@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bday_Page/static/css/main.68955777.css",
+    "main.js": "/Bday_Page/static/js/main.db62b981.js",
+    "static/media/hbd-cake.gif": "/Bday_Page/static/media/hbd-cake.f0f92208830d4942a994.gif",
+    "static/media/happy-birthday-155461.mp3": "/Bday_Page/static/media/happy-birthday-155461.e664dffe2677a1cca42b.mp3",
+    "static/media/img5.png": "/Bday_Page/static/media/img5.703317affd527c061d13.png",
+    "static/media/img4.jpg": "/Bday_Page/static/media/img4.33bd1549032ee9d1bf44.jpg",
+    "static/media/img1.jpg": "/Bday_Page/static/media/img1.f735abb9ba880dd4f00b.jpg",
+    "static/media/img3.jpg": "/Bday_Page/static/media/img3.4ddb62e3cf4910496b71.jpg",
+    "static/media/img2.jpg": "/Bday_Page/static/media/img2.caade262286ad5efe22a.jpg",
+    "index.html": "/Bday_Page/index.html",
+    "main.68955777.css.map": "/Bday_Page/static/css/main.68955777.css.map",
+    "main.db62b981.js.map": "/Bday_Page/static/js/main.db62b981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68955777.css",
+    "static/js/main.db62b981.js"
+  ]
+}
